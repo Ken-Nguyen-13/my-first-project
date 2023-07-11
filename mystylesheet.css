@@ -1,0 +1,90 @@
+.BodyCon {
+  background-color: rgba(88, 220, 45, 0.5);
+  text-align: center;
+  margin: 50px;
+  width: auto;
+}
+.Everything {
+  border: 5px solid Aqua;
+  margin: 0px;
+}
+.FAM {
+  border: 3px solid mediumspringgreen;
+  width: 430px;
+  height: auto;
+  overflow: visible;
+  margin: 0px 0px 0px 490px;
+  text-decoration-line: overline;
+  text-decoration-color: rgb(0, 167, 50);
+  text-transform: capitalize;
+}
+#Fact1 {
+  font-family: "Rubik Moonrocks", cursive;
+}
+#Fact1text {
+  letter-spacing: 10px;
+}
+#Fact2 {
+  color: rgb(0, 255, 0);
+  font-size: 20px;
+  background-color: green;
+  text-shadow: 2px 2px black;
+  text-decoration-line: overline;
+  text-decoration-color: rgba(25, 255, 236, 0.788);
+}
+#Fact3 {
+  border: 3px solid DodgerBlue;
+  font-family: "Rubik Moonrocks", cursive;
+  text-decoration-line: overline;
+  text-decoration-color: rgba(25, 255, 236, 0.788);
+}
+.Imagery {
+  width: 210px;
+  height: auto;
+  border: 5px solid green;
+  overflow: auto;
+  margin: 15px 470px 15px 600px;
+}
+h1 i:first-child {
+  color: rgb(100, 132, 255);
+  text-shadow: 2px 2px black;
+}
+#iHack {
+  font-size: 50px;
+  color: darkgreen;
+}
+#U4 {
+  font-size: 50px;
+  color: darkgreen;
+}
+#F {
+  font-size: 50px;
+  color: darkgreen;
+}
+.hoverable_letters {
+  font-size: 50px;
+  color: darkgreen;
+}
+.hoverable_letters:hover {
+  color: darkgreen;
+  font-size: 70px;
+}
+.Imagery:hover {
+  background-color: limegreen;
+}
+h2::before {
+  content: ".";
+}
+.hoverable_keywords {
+  color: black;
+}
+.hoverable_keywords:hover {
+  color: black;
+  font-size: 60px;
+}
+#computer::before {
+  font-size: 30px;
+}
+.calender {
+  font-size: 30px;
+}
